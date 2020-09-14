@@ -5,4 +5,5 @@ end
 
 def toadstool
   puts status
+  return Thank you Mario
 end
